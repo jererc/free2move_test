@@ -25,3 +25,4 @@ Each job includes shell scripts allowing them to be run by most schedulers.
 # TODO:
 - factorize jobs helpers (e.g.: read/write datasets)
 - add tests with fake input data
+- embed the dependencies in cluster mode
